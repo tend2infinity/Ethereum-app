@@ -1,1 +1,1 @@
-A simple ethereum based app which is based on a lottery contract.
+A simple ethereum app which is based on a lottery contract.
